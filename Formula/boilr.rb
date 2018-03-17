@@ -1,5 +1,5 @@
 class Boilr < Formula
-  desc "Boilerplate template manager that generates files or directories from template repositories"
+  desc "Boilerplate template manager that generates files from template repositories"
   homepage "https://github.com/tmrts/boilr"
   url "https://github.com/tmrts/boilr/releases/download/0.3.0/boilr-0.3.0-darwin_amd64.tgz"
   version "0.3.0"
